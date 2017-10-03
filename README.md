@@ -28,10 +28,28 @@ other things you could add:
 - License
 - References
 
+## Templates 
+
+- assignment.md
+    - an example of an university assignment  
+- template1.md
+    - a template for an open source project made by [@dbader](https://github.com/dbader)
+
+## Contributing
+
+Please feel free to contribute by adding new templates to this project: 
+
+1. Fork it (<https://github.com/inessadl/readme>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
 
 ### References
 
 - **Choose an open source license**. Github. Available at: https://choosealicense.com/
 - **Getting started with writing and formatting on Github**. Github. Available at: https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
 - **Markdown quick reference**. Wordpress. Available at: https://en.support.wordpress.com/markdown-quick-reference/
+- **readme-template**. Dan Bader. Github. Available at: https://github.com/dbader/readme-template
 - Writing READMEs. **Udacity**. Available at: https://classroom.udacity.com/courses/ud777/
