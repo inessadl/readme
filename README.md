@@ -52,6 +52,7 @@ Please feel free to contribute by adding new templates to this project:
 
 - **Choose an open source license**. Github. Available at: https://choosealicense.com/
 - **Getting started with writing and formatting on Github**. Github. Available at: https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
+- **Markdown here cheatsheet**. Markdown Here Wiki. Available at: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 - **Markdown quick reference**. Wordpress. Available at: https://en.support.wordpress.com/markdown-quick-reference/
 - **readme-template**. Dan Bader. Github. Available at: https://github.com/dbader/readme-template
 - Writing READMEs. **Udacity**. Available at: https://classroom.udacity.com/courses/ud777/
