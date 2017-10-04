@@ -5,12 +5,12 @@ This repository has a few templates for README files and some notes about which 
 
 ## Prepare the content
 
-Readme files are made for developers (including you), but also could be used for the final users. 
+Readme files are made for developers (including you), but also could be used for the final users.
 So while you are writing your readme files please consider a few things:
 
 1. What is about?
     - Describe the content of your project or repository
-    - Explain things the users would have a hard time understanding right away 
+    - Explain things the users would have a hard time understanding right away
 2. What steps need to be taken?
     - Do they need to install any software?
     - Is there any hardware requirements or dependencies?
@@ -28,16 +28,18 @@ other things you could add:
 - License
 - References
 
-## Templates 
+## Templates
 
+- _cheatsheet.md
+    - a simple markdown cheatsheet (in construction)
 - assignment.md
     - an example of an university assignment  
-- template1.md
+- opensource.md
     - a template for an open source project made by [@dbader](https://github.com/dbader)
 
 ## Contributing
 
-Please feel free to contribute by adding new templates to this project: 
+Please feel free to contribute by adding new templates to this project:
 
 1. Fork it (<https://github.com/inessadl/readme>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
