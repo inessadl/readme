@@ -56,7 +56,3 @@ Create a demo and host it somewhere.
 * [ ] Add Unit tests.
 * [ ] Add more functionalities.
 * [ ] Add ...
-
-## License
-
-MIT © [inessadl](https://github.com/inessadl)
