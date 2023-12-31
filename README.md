@@ -55,4 +55,4 @@ Please feel free to contribute by adding new templates to this project:
 - **Markdown here cheatsheet**. Markdown Here Wiki. Available at: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 - **Markdown quick reference**. Wordpress. Available at: https://en.support.wordpress.com/markdown-quick-reference/
 - **readme-template**. Dan Bader. Github. Available at: https://github.com/dbader/readme-template
-- Writing READMEs. **Udacity**. Available at: https://classroom.udacity.com/courses/ud777/
+- **Writing READMEs**. Udacity. Available at: https://classroom.udacity.com/courses/ud777/
